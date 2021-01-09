@@ -6,9 +6,6 @@ Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jek
 
 ### Telegram bot Google Drive API integration example
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
@@ -28,7 +25,7 @@ You have to enable [Google Drive API V3](https://console.developers.google.com/a
 
 Clone the repository:
 
-```
+
 git clone https://github.com/zume2020/Telegram-bot-Google-Drive.git
 cd Telegram-bot-Google-Drive
 ```
